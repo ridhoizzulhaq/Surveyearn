@@ -1,6 +1,7 @@
 More explanantion and better installation visit : https://survearn.gitbook.io/surveyearn-1
 
 About code : this is modified smart contract from secret official repository, modified smart contract included for :
+
 -Smart Contract Deposit
 - Token distribution for voter reward
 
